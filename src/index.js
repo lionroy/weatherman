@@ -6,11 +6,12 @@ import ReduxPromise from "redux-promise";
 
 import App from "./components/app";
 import reducers from "./reducers";
+import rootReducer from "./reducers";
 
 const createStoreWithMiddleware = applyMiddleware(ReduxPromise)(createStore);
 
 ReactDOM.render(
-  <Provider store={createStoreWithMiddleware(reducers)}>
+  <Provider store={createStoreWithMiddleware(rootReducer)}>
     <App />
   </Provider>,
   document.querySelector(".container")
