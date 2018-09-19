@@ -2,3 +2,16 @@
     padding: 0;
     margin: 0 auto;
 }
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group {
+    margin: 20px 0;
+}
+
+svg {
+    height: 175px;
+    max-width: 225px;
+}

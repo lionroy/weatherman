@@ -5,8 +5,5 @@ export default function(state = [], action) {
     case FETCH_WEATHER:
       return [action.payload.data, ...state];
   }
-
-  console.log("Action received", action);
-
   return state;
 }
