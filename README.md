@@ -1,11 +1,15 @@
 # Weatherman blog 
 ### based on ReduxSimpleStarter
+following Stephen's excellent tutorial via udemy
 
-## Weatherman displays local weather forcast anywher in the US of A
-## Blog is under construction
-## stay tuned for more
+## Weatherman 
+  * displays local weather forcast anywher in the US of A
+  * Blog is under construction
+  * stay tuned for more
 
-NOTE: API keys are missing so you better make your own dough
+_NOTE: API keys are missing so you better make your own dough_
+
+if you want the original b-plate, here
 
 ### Getting Started
 
