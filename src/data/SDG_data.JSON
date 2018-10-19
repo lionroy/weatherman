@@ -1,0 +1,390 @@
+{
+  "rows": 100,
+  "os": "0",
+  "page": "1",
+  "total": "3",
+  "projects": {
+    "P163846": {
+      "id": "P163846",
+      "projectfinancialtype": "IDA",
+      "regionname": "Africa",
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "Y",
+      "productlinetype": "L",
+      "projectstatusdisplay": "Active",
+      "status": "Active",
+      "project_name": "AF Sustainable Rural Water and Sanitation Project",
+      "board_approval_month": "June",
+      "approvalfy": "2017",
+      "boardapprovaldate": "2017-06-28T00:00:00Z",
+      "lendprojectcost": "45,700,000",
+      "ibrdcommamt": "0",
+      "idacommamt": "45,700,000",
+      "totalamt": "45,700,000",
+      "grantamt": "0",
+      "url": "http://projects.worldbank.org/P163846?lang=en",
+      "countryshortname": "Ghana",
+      "prodlinetext": "IBRD/IDA",
+      "keywords": {
+        "cdata": "small town water supply system;economic and financial analysis;water supply and sanitation;access to water supply;provision of water supply;goal for water supply;water and sanitation program;women in leadership position;access to safe water;Electronic Government Procurement;Grievance Redress Service;Exchange Rates;sanitation and hygiene;capacity for implementation;per capita cost;number of water;bucket of water;improved sanitation facilities;transmission and distribution;sustainable water supply;human development outcome;grievance redress mechanism;rehabilitation of water;piped water supply;construction and rehabilitation;information and communication;sanitation management;procurement capacity assessment;planning and design;per capita income;adequate water supply;basic water service;signs of recovery;small town system;contract for work;hygiene promotion activity;release of woman;cost of asset;population growth rate;improved water supply;water supply intervention;core sector indicator;target for sanitation;design of water;cost of water;water supply sector;source of revenue;outbreak of disease;cost benefit analysis;ratio of revenues;provision water;water supply component;water supply source;water supply distribution;provision of service;improved water source;capacity building support;source of financing;achievement of targets;rural community;Sanitation Services;water system;national grid;prior review;transmission line;sanitation target;decentralization program;health benefit;ho"
+      },
+      "project_abstract": {
+        "cdata": "The development objective of the  Sustainable Rural Water and Sanitation Project for Ghana is to expand access to, and ensure sustainable water supply and sanitation services in rural and small town communities in six regions. This Project Paper seeks the approval of the Executive Directors to provide an additional credit in an amount of SDR 33 million (USD 45.7 million equivalent) to the Project. The proposed additional credit would finance the cost of completing the remaining contracts for works and services under the SRWSP which could not be executed as a result of cost\u2013overruns resulting from: (a) the fact that communities had significantly outgrown the initial design capacities thus requiring a redesign of both the transmission and distribution mains; (b) the need to bolster the capacities of pipelines, pumps and storage tanks in the 15 small town systems initially targeted for rehabilitation in the Northern region to cover the larger than estimated population and geographic dispersion of towns; (c) extension of some small town water supply systems to adjoining communities not included in the original plan; and (d) the selection of additional beneficiary communities in the Upper West region. The Project Paper also proposes a project restructuring to extend the closing date from June 30, 2017 to December 31, 2019 and to adjust the results framework, disbursement estimates, component costs, and implementation schedule. The additional financing (AF) will assist Ghana in achieving the Sustainable Development Goals (SDG) related to equitable access to safe and affordable water and adequate sanitation for all by 2030. While Ghana is on track to achieving the goal for water supply, that for sanitation is significantly off track, with coverage estimated at only 14 percent compared to the SDG target of 80 percent. The proposed AF will place appropriate emphasis on (a) san"
+      },
+      "teamleadname": "Emmanuel Nkrumah",
+      "p2a_flag": "Y",
+      "p2a_updated_date": "2018-02-10 00:00:00.0",
+      "country_namecode": "Republic of Ghana!$!GH",
+      "sector1": {
+        "Name": "Public Administration - Water, Sanitation and Waste Management",
+        "Percent": 9
+      },
+      "sector2": { "Name": "Water Supply", "Percent": 66 },
+      "sector3": { "Name": "Sanitation", "Percent": 25 },
+      "theme1": { "Name": "", "Percent": 0 },
+      "totalcommamt": "45,700,000",
+      "mjthemecode": "10",
+      "mjsector_namecode": [
+        { "name": "Water, Sanitation and Waste Management", "code": "WX" },
+        { "name": "Water, Sanitation and Waste Management", "code": "WX" },
+        { "name": "Water, Sanitation and Waste Management", "code": "WX" }
+      ],
+      "countrycode": "GH",
+      "countryname": "Republic of Ghana",
+      "majorsector_percent": [
+        { "Name": "Water, Sanitation and Waste Management", "Percent": 9 },
+        { "Name": "Water, Sanitation and Waste Management", "Percent": 66 },
+        { "Name": "Water, Sanitation and Waste Management", "Percent": 25 }
+      ],
+      "docty": "Project Paper,Project Information and Integrated Safeguards Data Sheet,Project Information and Integrated Safeguards Data Sheet,Environmental Assessment,Environmental Assessment,Resettlement Plan,Resettlement Plan",
+      "sector_namecode": [
+        {
+          "name": "Public Administration - Water, Sanitation and Waste Management",
+          "code": "WF"
+        },
+        { "name": "Water Supply", "code": "WC" },
+        { "name": "Sanitation", "code": "WA" }
+      ],
+      "mjtheme_namecode": [{ "name": "", "code": "10" }],
+      "source": "IBRD",
+      "projectdocs": [
+        {
+          "DocTypeDesc": "Project Paper (PJPR),  Vol.1",
+          "DocType": "PJPR",
+          "EntityID": "090224b084c7ead1_1_0",
+          "DocURL": "http://www-wds.worldbank.org/servlet/WDSServlet?pcont=details&eid=090224b084c7ead1_1_0",
+          "DocDate": "07-JUN-2017"
+        },
+        {
+          "DocTypeDesc": "Project Information and Integrated Safeguards Data Sheet (PSDS),  Vol.1",
+          "DocType": "PSDS",
+          "EntityID": "090224b084c4e491_1_0",
+          "DocURL": "http://www-wds.worldbank.org/servlet/WDSServlet?pcont=details&eid=090224b084c4e491_1_0",
+          "DocDate": "06-JUN-2017"
+        },
+        {
+          "DocTypeDesc": "Project Information and Integrated Safeguards Data Sheet (PSDS),  Vol.1",
+          "DocType": "PSDS",
+          "EntityID": "090224b084cb211e_1_0",
+          "DocURL": "http://www-wds.worldbank.org/servlet/WDSServlet?pcont=details&eid=090224b084cb211e_1_0",
+          "DocDate": "06-JUN-2017"
+        },
+        {
+          "DocTypeDesc": "Environmental Assessment (EA),  Vol.1",
+          "DocType": "EA",
+          "EntityID": "090224b084c50fab_2_0",
+          "DocURL": "http://www-wds.worldbank.org/servlet/WDSServlet?pcont=details&eid=090224b084c50fab_2_0",
+          "DocDate": "05-JUN-2017"
+        },
+        {
+          "DocTypeDesc": "Environmental Assessment (EA),  Vol.1",
+          "DocType": "EA",
+          "EntityID": "090224b084cb2148_1_0",
+          "DocURL": "http://www-wds.worldbank.org/servlet/WDSServlet?pcont=details&eid=090224b084cb2148_1_0",
+          "DocDate": "05-JUN-2017"
+        },
+        {
+          "DocTypeDesc": "Resettlement Plan (RPL),  Vol.1",
+          "DocType": "RPL",
+          "EntityID": "090224b084c52022_2_0",
+          "DocURL": "http://www-wds.worldbank.org/servlet/WDSServlet?pcont=details&eid=090224b084c52022_2_0",
+          "DocDate": "01-JUN-2017"
+        },
+        {
+          "DocTypeDesc": "Resettlement Plan (RPL),  Vol.1",
+          "DocType": "RPL",
+          "EntityID": "090224b084cb216f_1_0",
+          "DocURL": "http://www-wds.worldbank.org/servlet/WDSServlet?pcont=details&eid=090224b084cb216f_1_0",
+          "DocDate": "01-JUN-2017"
+        }
+      ],
+      "sectorcode": "WA,WC,WF",
+      "locations": [
+        {
+          "geoLocId": "0002294076",
+          "geoLocName": "Western Region",
+          "latitude": "5.5",
+          "longitude": "-2.5",
+          "country": "GH"
+        },
+        {
+          "geoLocId": "0002294286",
+          "geoLocName": "Upper West Region",
+          "latitude": "10.33333",
+          "longitude": "-2.25",
+          "country": "GH"
+        },
+        {
+          "geoLocId": "0002294291",
+          "geoLocName": "Upper East Region",
+          "latitude": "10.75",
+          "longitude": "-0.75",
+          "country": "GH"
+        },
+        {
+          "geoLocId": "0002297169",
+          "geoLocName": "Northern Region",
+          "latitude": "9.5",
+          "longitude": "-1",
+          "country": "GH"
+        },
+        {
+          "geoLocId": "0002302353",
+          "geoLocName": "Central Region",
+          "latitude": "5.5",
+          "longitude": "-1",
+          "country": "GH"
+        },
+        {
+          "geoLocId": "0002302547",
+          "geoLocName": "Brong-Ahafo Region",
+          "latitude": "7.75",
+          "longitude": "-1.5",
+          "country": "GH"
+        }
+      ],
+      "sector": [
+        {
+          "Name": "Public Administration - Water, Sanitation and Waste Management"
+        },
+        { "Name": "Water Supply" },
+        { "Name": "Sanitation" }
+      ]
+    },
+    "P161876": {
+      "id": "P161876",
+      "projectfinancialtype": "IDA",
+      "regionname": "Africa",
+      "prodline": "PE",
+      "lendinginstr": "Program-for-Results",
+      "lendinginstrtype": "PR",
+      "supplementprojectflg": "N",
+      "productlinetype": "L",
+      "projectstatusdisplay": "Active",
+      "status": "Active",
+      "project_name": "Transformation of Agriculture Sector Program 4 Phase 2",
+      "board_approval_month": "May",
+      "approvalfy": "2018",
+      "boardapprovaldate": "2018-05-29T00:00:00Z",
+      "closingdate": "2021-12-31T00:00:00Z",
+      "lendprojectcost": "289,920,000",
+      "ibrdcommamt": "0",
+      "idacommamt": "100,000,000",
+      "totalamt": "100,000,000",
+      "grantamt": "0",
+      "borrower": "EET",
+      "impagency": "IIST",
+      "url": "http://projects.worldbank.org/P161876?lang=en",
+      "countryshortname": "Rwanda",
+      "prodlinetext": "IBRD/IDA",
+      "keywords": {
+        "cdata": "Agriculture; agriculture sector; safeguard policy; Safeguard Policies; sanitary and phytosanitary standards; nutrition and household food security; farmer; Food and Nutrition Security; purchasing power parity term; information and communication technology; monitoring and evaluation system; Research and Innovation Development; small plots of land; impact of climate change; supply of raw material; private sector financing; feeder roads development; Agricultural Value Chain; agriculture and livestock; public sector involvement; food system; food production system; access to information; integrated watershed management; private sector service; Production of Crops; high value crops; average farm size; fruit and vegetable; reduction in poverty; foreign currency reserve; quality of public; level of private; participation of woman; institutional reform agenda; food import bill; financial management specialist; road subsector; rural road network; access to irrigation; direct government involvement; current account deficit; improved seed variety; per capita income; Exchange Rates; annual mean temperature; investments in infrastructure; capacity for implementation; source income; total public spending; working age population; loss in yield; national poverty line; standard of living; source of income; budget execution system; public sector institution; productivity of land; delivery of service; milk per cow; return on investment; small land holding; risk mitigation strategy; animal resou"
+      },
+      "project_abstract": {
+        "cdata": "The development objective of Fourth Transformation of Agriculture Sector Program and Second Phase of Program-for-Results Project for Rwanda is to promote the commercialization of agriculture value chains in Rwanda. Rwanda is increasingly recognized as a global example in the pursuit of the Sustainable Development Goals (SDG) and in preparing for the global challenges of climate change. Ministry of Agriculture and Animal Resources (MINAGRI) has prepared its fourth Strategic Plan for Agriculture Transformation (PSTA4), an articulation of how the government proposes to implement the updated National Agricultural Policy (NAP). PSTA4 is also aligned with National Policies and Strategies including Vision 2050, Rwanda\u2019s National Strategy for Transformation (NST 1), and relevant sub-sector strategies. This Program for Results (PforR) operation will be nested within PSTA4. Reflecting emerging best-practice with PforR operations, the specifics of the PforR Program are drawn from the broader PSTA4 and nested within the government\u2019s strategy. The PforR operation directly addresses the objectives of the World Bank\u2019s engagement in Rwanda and capitalizes on the World Bank\u2019s comparative advantage. It is aligned with the objectives of the Country Partnership Strategy (CPS) (FY2014 \u2013 2020), particularly in improving the productivity and incomes of the poor through rural development and social protection, by supporting investments in activities that promote agricultural productivity, agribusiness and nutrition. This PforR Program\u2019s four results areas would address areas reflect the Maximizing Finance for Development (MFD) concept by focusing on the overall policy context (Results Area 1), recognizing that a key element of the new NAP/PSTA4 is leveraging private sector investment in the commercialization agenda (Results Area 2), but that there remains a need for the public provision of s"
+      },
+      "teamleadname": "Winston Dawes",
+      "p2a_flag": "Y",
+      "p2a_updated_date": "2018-05-30 00:00:00.0",
+      "country_namecode": "Republic of Rwanda!$!RW",
+      "sector1": {
+        "Name": "Public Administration - Agriculture, Fishing & Forestry",
+        "Percent": 29
+      },
+      "sector2": {
+        "Name": "Agricultural markets, commercialization and agri-business",
+        "Percent": 28
+      },
+      "sector3": {
+        "Name": "Agricultural Extension, Research, and Other Support Activities",
+        "Percent": 23
+      },
+      "sector4": {
+        "Name": "Other Agriculture, Fishing and Forestry",
+        "Percent": 10
+      },
+      "sector5": { "Name": "Irrigation and Drainage", "Percent": 10 },
+      "theme1": { "Name": "", "Percent": 0 },
+      "totalcommamt": "100,000,000",
+      "mjthemecode": "11",
+      "mjsector_namecode": [
+        { "name": "Agriculture, Fishing and Forestry", "code": "AX" },
+        { "name": "Industry, Trade and Services", "code": "YX" },
+        { "name": "Agriculture, Fishing and Forestry", "code": "AX" },
+        { "name": "Agriculture, Fishing and Forestry", "code": "AX" },
+        { "name": "Agriculture, Fishing and Forestry", "code": "AX" }
+      ],
+      "countrycode": "RW",
+      "countryname": "Republic of Rwanda",
+      "majorsector_percent": [
+        { "Name": "Agriculture, Fishing and Forestry", "Percent": 29 },
+        { "Name": "Industry, Trade and Services", "Percent": 28 },
+        { "Name": "Agriculture, Fishing and Forestry", "Percent": 23 },
+        { "Name": "Agriculture, Fishing and Forestry", "Percent": 10 },
+        { "Name": "Agriculture, Fishing and Forestry", "Percent": 10 }
+      ],
+      "sector_namecode": [
+        {
+          "name": "Public Administration - Agriculture, Fishing & Forestry",
+          "code": "AK"
+        },
+        {
+          "name": "Agricultural markets, commercialization and agri-business",
+          "code": "YA"
+        },
+        {
+          "name": "Agricultural Extension, Research, and Other Support Activities",
+          "code": "AB"
+        },
+        { "name": "Other Agriculture, Fishing and Forestry", "code": "AZ" },
+        { "name": "Irrigation and Drainage", "code": "AI" }
+      ],
+      "mjtheme_namecode": [{ "name": "", "code": "11" }],
+      "source": "IBRD",
+      "sectorcode": "AI,AZ,AB,YA,AK",
+      "sector": [
+        { "Name": "Public Administration - Agriculture, Fishing & Forestry" },
+        { "Name": "Agricultural markets, commercialization and agri-business" },
+        {
+          "Name": "Agricultural Extension, Research, and Other Support Activities"
+        },
+        { "Name": "Other Agriculture, Fishing and Forestry" },
+        { "Name": "Irrigation and Drainage" }
+      ]
+    },
+    "P163984": {
+      "id": "P163984",
+      "projectfinancialtype": "IDA",
+      "regionname": "Africa",
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "envassesmentcategorycode": "C",
+      "supplementprojectflg": "N",
+      "productlinetype": "L",
+      "projectstatusdisplay": "Active",
+      "status": "Active",
+      "project_name": "Ghana Energy Sector Transformation Initiative Project",
+      "board_approval_month": "July",
+      "approvalfy": "2018",
+      "boardapprovaldate": "2018-07-13T00:00:00Z",
+      "closingdate": "2022-12-31T00:00:00Z",
+      "lendprojectcost": "20,000,000",
+      "ibrdcommamt": "0",
+      "idacommamt": "20,000,000",
+      "totalamt": "20,000,000",
+      "grantamt": "0",
+      "url": "http://projects.worldbank.org/P163984?lang=en",
+      "countryshortname": "Ghana",
+      "prodlinetext": "IBRD/IDA",
+      "keywords": {
+        "cdata": "energy sector transformation; gas; united nations framework convention on climate change; infrastructure needs; access to modern energy service; Supervisory Control and Data Acquisition; Oil and Gas Sector; combined cycle power plant; multilateral investment guarantee agency; growth in electricity demand; Oil & Gas; energy sector planning; international cooperation agency; thermal power plant; liquefied natural gas; independent power producer; supply of gas; technical assistance loan; Access to Electricity; gross domestic product; geographic information system; power purchase agreement; cost of electricity; security of supply; gas transportation infrastructure"
+      },
+      "project_abstract": {
+        "cdata": "The development objective of the Energy Sector Transformation Initiative Project for Ghana is to strengthen the capacity of the energy sector to implement sector reforms, and improve energy sector planning and coordination in Ghana. The project has five components: (a) Management of energy sector financial flows; (b) Sector planning and coordination; (c) Energy access; (d) Natural gas; and (e) Project management. First component, Management of energy sector financial flows will assist in addressing the financial viability of the energy sector by improving revenue management at sector level, improving revenue collection at the utilities\u2019 level, improving organizational structures, and strengthening the power companies\u2019 operational and financial management (FM) functions. Second component, sector planning and coordination is to enhance planning and coordination across the energy sector, this component will assist the Government to design effective institutional arrangements with clear mandates for the regulatory institutions in the energy sector, conduct technical studies on the sector including electricity sector assessment and a gas sector assessment; Third component, energy access has three activities: (a) conducting feasibility and investment planning studies for grid extension and off-grid electrification to reach the Government\u2019s goal for universal electrification by 2030; (b) preparing a strategy for increasing access to safe clean cooking as committed under SDG 7; and (c) conducting studies to upgrade NEDCo\u2019s sub-transmission, distribution and operational systems to improve its operational efficiency;  Fourth component,  natural gas includes three activities: (a) development of a strategy for balancing natural gas demand and supply; (b) review of WAGP treaties and operation; and (c) support for GNPC in their role as gas aggregator, as well as GNGC and other gas "
+      },
+      "teamleadname": ["Shinya Nishimura", "Paivi Koljonen"],
+      "p2a_flag": "Y",
+      "p2a_updated_date": "2018-07-16 00:00:00.0",
+      "country_namecode": "Republic of Ghana!$!GH",
+      "sector1": { "Name": "", "Percent": 0 },
+      "theme1": { "Name": "", "Percent": 0 },
+      "totalcommamt": "20,000,000",
+      "mjthemecode": "8",
+      "countrycode": "GH",
+      "countryname": "Republic of Ghana",
+      "docty": "Project Information and Integrated Safeguards Data Sheet,Project Information and Integrated Safeguards Data Sheet",
+      "mjtheme_namecode": [{ "name": "", "code": "8" }],
+      "source": "IBRD",
+      "projectdocs": [
+        {
+          "DocTypeDesc": "Project Information and Integrated Safeguards Data Sheet (PSDS),  Vol.1",
+          "DocType": "PSDS",
+          "EntityID": "090224b085042fc7_1_0",
+          "DocURL": "http://www-wds.worldbank.org/servlet/WDSServlet?pcont=details&eid=090224b085042fc7_1_0",
+          "DocDate": "02-OCT-2017"
+        },
+        {
+          "DocTypeDesc": "Project Information and Integrated Safeguards Data Sheet (PSDS),  Vol.1",
+          "DocType": "PSDS",
+          "EntityID": "090224b085042fb4_1_0",
+          "DocURL": "http://www-wds.worldbank.org/servlet/WDSServlet?pcont=details&eid=090224b085042fb4_1_0",
+          "DocDate": "02-OCT-2017"
+        }
+      ]
+    }
+  },
+  "facets": {
+    "regionname_exact": {
+      "0": { "count": "3", "name": "Africa", "label": "Africa" }
+    },
+    "countryname_exact": {
+      "1": {
+        "count": "2",
+        "name": "Republic of Ghana",
+        "label": "Republic of Ghana"
+      },
+      "2": {
+        "count": "1",
+        "name": "Republic of Rwanda",
+        "label": "Republic of Rwanda"
+      }
+    },
+    "sector_exact": {
+      "3": {
+        "count": "1",
+        "name": "Agricultural Extension, Research, and Other Support Activities",
+        "label": "Agricultural Extension, Research, and Other Support Activities"
+      },
+      "4": {
+        "count": "1",
+        "name": "Agricultural markets, commercialization and agri-business",
+        "label": "Agricultural markets, commercialization and agri-business"
+      },
+      "5": {
+        "count": "1",
+        "name": "Irrigation and Drainage",
+        "label": "Irrigation and Drainage"
+      },
+      "6": {
+        "count": "1",
+        "name": "Other Agriculture, Fishing and Forestry",
+        "label": "Other Agriculture, Fishing and Forestry"
+      },
+      "7": {
+        "count": "1",
+        "name": "Public Administration - Agriculture, Fishing & Forestry",
+        "label": "Public Administration - Agriculture, Fishing & Forestry"
+      },
+      "8": {
+        "count": "1",
+        "name": "Public Administration - Water, Sanitation and Waste Management",
+        "label": "Public Administration - Water, Sanitation and Waste Management"
+      },
+      "9": { "count": "1", "name": "Sanitation", "label": "Sanitation" },
+      "10": { "count": "1", "name": "Water Supply", "label": "Water Supply" }
+    }
+  }
+}
